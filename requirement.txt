@@ -1,0 +1,7 @@
+django
+django-extensions
+djangorestframework
+django-filter
+python-dotenv
+mysql-connector-python
+django-phonenumber-field[phonenumbers]
